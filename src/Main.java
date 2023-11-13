@@ -20,7 +20,7 @@ public class Main {
             System.out.println("пт");
         } else if (dayofweek == 6) {
             System.out.println("сб");
-        } else if (dayofweek == 2) {
+        } else if (dayofweek == 7) {
             System.out.println("вс");
         } else {
             System.out.println("Введено неверно"); //error
